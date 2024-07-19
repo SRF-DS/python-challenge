@@ -49,7 +49,7 @@ for candidate in candidates:
     vote_ratio = voted_for / total_votes
     results.append((candidate, voted_for, vote_ratio))
 
-Rest of code generated worked effectively simply needed minor pathing fixes so the files could write to the write place.
+Code generated from this point only needed minor debugging and pathing fixes so the files could write to the right place.
 
 Thank you for reviewing my processes.
 
