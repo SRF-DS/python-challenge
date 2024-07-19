@@ -5,8 +5,8 @@ import os
 import csv
 
 # File path
-urlpath = "C:\\Users\\sebif\\Cargo_Bay\\python-challenge\\PyBank-Python\\Resources\\"
-file_path = os.path.join(urlpath, "budget_data.csv")
+
+file_path = os.path.join('Resources','budget_data.csv')
 
 
 
